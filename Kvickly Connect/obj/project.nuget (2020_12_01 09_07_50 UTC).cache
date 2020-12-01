@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TjZiZGXgjckpbmVBf/aYbVALZlT5XsiY6xf3JD9/4bnqlSuCSkqWwpg20/aWIPmjzd3xXfJLQ3Wpxffp8nuBVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emil Glæsner\\source\\repos\\Kvickly Connect\\Kvickly Connect\\Kvickly Connect.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emil Glæsner\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

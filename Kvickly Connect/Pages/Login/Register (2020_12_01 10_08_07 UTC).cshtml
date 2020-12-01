@@ -1,0 +1,63 @@
+﻿@page
+@model Kvickly_Connect.Pages.Login.RegisterModel
+@{
+    ViewData["Title"] = "Register";
+}
+<h3>@ViewData["confirmation"]</h3>
+<form class="form-horizontal" method="post">
+    <!--Name-->
+    <div class="form-group">
+        <label for="FirstName" class="col-sm-2 control-label">First name</label>
+        <div class="col-sm-10">
+            <input type="text" class="form-control" name="Name" required />
+        </div>
+    </div>
+    <!--Email-->
+    <div class="form-group">
+        <label for="LastName" class="col-sm-2 control-label">LastName</label>
+        <div class="col-sm-10">
+            <input type="text" class="form-control" name="LastName" required />
+        </div>
+    </div>
+    <!-- Password -->
+    <div class="form-group">
+        <label for="Password" class="col-sm-2 control-label">Password</label>
+        <div class="col-sm-10">
+            <input type="password" id="pass" name="Password" minlength="8" required />
+        </div>
+    </div>
+    <!-- Email -->
+    <div class="form-group">
+        <label for="Email" class="col-sm-2 control-label">Email</label>
+        <div class="col-sm-10">
+            <input type="text" class="form-control" name="Email" required />
+        </div>
+    </div>
+    <!-- Address -->
+    <div class="form-group">
+        <label for="Address" class="col-sm-2 control-label">Address</label>
+        <div class="col-sm-10">
+            <input type="text" class="form-control" name="Address" required />
+        </div>
+    </div>
+    <!-- City -->
+    <div class="form-group">
+        <label for="City" class="col-sm-2 control-label">City</label>
+        <div class="col-sm-10">
+            <input type="text" class="form-control" name="City" required />
+        </div>
+    </div>
+    <!-- Zip code-->
+    <div class="form-group">
+        <label for="ZipCode" class="col-sm-2 control-label">Zip Code</label>
+        <div class="col-sm-10">
+            <input type="number" class="form-control" name="ZipCode" minlength="4" maxlength="4" required />
+        </div>
+    </div>
+    <!-- Button -->
+    <div class="form-group">
+        <div class="col-sm-offset-2 col-sm-10">
+            <button type="submit" class="btn btn-dark">Register</button>
+        </div>
+    </div>
+</form>

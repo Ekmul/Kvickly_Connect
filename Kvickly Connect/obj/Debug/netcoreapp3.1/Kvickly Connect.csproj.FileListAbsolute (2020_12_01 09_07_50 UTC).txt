@@ -1,0 +1,25 @@
+C:\Users\Emil Glæsner\source\repos\Kvickly Connect\Kvickly Connect\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Emil Glæsner\source\repos\Kvickly Connect\Kvickly Connect\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Emil Glæsner\source\repos\Kvickly Connect\Kvickly Connect\bin\Debug\netcoreapp3.1\Data\jsonOrder.json
+C:\Users\Emil Glæsner\source\repos\Kvickly Connect\Kvickly Connect\bin\Debug\netcoreapp3.1\Data\jsonUsers.json
+C:\Users\Emil Glæsner\source\repos\Kvickly Connect\Kvickly Connect\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Emil Glæsner\source\repos\Kvickly Connect\Kvickly Connect\bin\Debug\netcoreapp3.1\Kvickly Connect.exe
+C:\Users\Emil Glæsner\source\repos\Kvickly Connect\Kvickly Connect\obj\Debug\netcoreapp3.1\Kvickly Connect.csprojAssemblyReference.cache
+C:\Users\Emil Glæsner\source\repos\Kvickly Connect\Kvickly Connect\obj\Debug\netcoreapp3.1\Kvickly Connect.AssemblyInfoInputs.cache
+C:\Users\Emil Glæsner\source\repos\Kvickly Connect\Kvickly Connect\obj\Debug\netcoreapp3.1\Kvickly Connect.AssemblyInfo.cs
+C:\Users\Emil Glæsner\source\repos\Kvickly Connect\Kvickly Connect\obj\Debug\netcoreapp3.1\Kvickly Connect.RazorAssemblyInfo.cache
+C:\Users\Emil Glæsner\source\repos\Kvickly Connect\Kvickly Connect\obj\Debug\netcoreapp3.1\Kvickly Connect.RazorAssemblyInfo.cs
+C:\Users\Emil Glæsner\source\repos\Kvickly Connect\Kvickly Connect\obj\Debug\netcoreapp3.1\Kvickly Connect.TagHelpers.input.cache
+C:\Users\Emil Glæsner\source\repos\Kvickly Connect\Kvickly Connect\obj\Debug\netcoreapp3.1\Kvickly Connect.TagHelpers.output.cache
+C:\Users\Emil Glæsner\source\repos\Kvickly Connect\Kvickly Connect\obj\Debug\netcoreapp3.1\Kvickly Connect.RazorCoreGenerate.cache
+C:\Users\Emil Glæsner\source\repos\Kvickly Connect\Kvickly Connect\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Emil Glæsner\source\repos\Kvickly Connect\Kvickly Connect\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Emil Glæsner\source\repos\Kvickly Connect\Kvickly Connect\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Emil Glæsner\source\repos\Kvickly Connect\Kvickly Connect\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Emil Glæsner\source\repos\Kvickly Connect\Kvickly Connect\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Emil Glæsner\source\repos\Kvickly Connect\Kvickly Connect\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Emil Glæsner\source\repos\Kvickly Connect\Kvickly Connect\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Emil Glæsner\source\repos\Kvickly Connect\Kvickly Connect\obj\Debug\netcoreapp3.1\Kvickly Connect.RazorTargetAssemblyInfo.cache
+C:\Users\Emil Glæsner\source\repos\Kvickly Connect\Kvickly Connect\obj\Debug\netcoreapp3.1\Kvickly Connect.RazorTargetAssemblyInfo.cs
+C:\Users\Emil Glæsner\source\repos\Kvickly Connect\Kvickly Connect\obj\Debug\netcoreapp3.1\staticwebassets\Kvickly Connect.StaticWebAssets.Manifest.cache
+C:\Users\Emil Glæsner\source\repos\Kvickly Connect\Kvickly Connect\obj\Debug\netcoreapp3.1\staticwebassets\Kvickly Connect.StaticWebAssets.xml

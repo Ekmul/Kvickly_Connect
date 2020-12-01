@@ -1,0 +1,70 @@
+﻿@page
+@model Kvickly_Connect.Pages.Login.RegisterModel
+@{
+    ViewData["Title"] = "Register";
+}
+<h3>@ViewData["Confirmation"]</h3>
+<form class="form-horizontal" method="post">
+    <!--Name-->
+    <div class="form-group">
+        <label asp-for="@Model.FirstName" class="col-sm-2 control-label">First name</label>
+        <div class="col-sm-10">
+            <input type="text" class="form-control" name="Name" required />
+            <span asp-validation-for="@Model.Book.ISBN" class="text-danger"></span>
+        </div>
+    </div>
+    <!--Email-->
+    <div class="form-group">
+        <label asp-for="@Model.LastName" class="col-sm-2 control-label">LastName</label>
+        <div class="col-sm-10">
+            <input type="text" class="form-control" name="LastName" required />
+            <span asp-validation-for="@Model.Book.ISBN" class="text-danger"></span>
+        </div>
+    </div>
+    <!-- Password -->
+    <div class="form-group">
+        <label asp-for="@Model.Password" class="col-sm-2 control-label">Password</label>
+        <div class="col-sm-10">
+            <input type="password" id="pass" name="Password" minlength="8" required />
+            <span asp-validation-for="@Model.Book.ISBN" class="text-danger"></span>
+        </div>
+    </div>
+    <!-- Email -->
+    <div class="form-group">
+        <label asp-for="@Model.Email" class="col-sm-2 control-label">Email</label>
+        <div clasp-ass="col-sm-10">
+            <input type="text" class="form-control" name="Email" required />
+            <span asp-validation-for="@Model.Book.ISBN" class="text-danger"></span>
+        </div> asp-
+    </div>     asp-
+    <!-- Addresasp-s -->
+    <div class="form-group">
+        <label asp-for="@Model.Address" class="col-sm-2 control-label">Address</label>
+        <div class="col-sm-10">
+            <input type="text" class="form-control" name="Address" required />
+            <span asp-validation-for="@Model.Book.ISBN" class="text-danger"></span>
+        </div>
+    </div>
+    <!-- City -->
+    <div class="form-group">
+        <label asp-for="@Model.City" class="col-sm-2 control-label">City</label>
+        <div class="col-sm-10">
+            <input type="text" class="form-control" name="City" required />
+            <span asp-validation-for="@Model.Book.ISBN" class="text-danger"></span>
+        </div>
+    </div>
+    <!-- Zip code-->
+    <div class="form-group">
+        <label asp-for="@Model.ZipCode" class="col-sm-2 control-label">Zip Code</label>
+        <div class="col-sm-10">
+            <input type="number" class="form-control" name="ZipCode" minlength="4" maxlength="4" required />
+            <span asp-validation-for="@Model.Book.ISBN" class="text-danger"></span>
+        </div>
+    </div>
+    <!-- Button -->
+    <div class="form-group">
+        <div class="col-sm-offset-2 col-sm-10">
+            <button type="submit" class="btn btn-dark">Register</button>
+        </div>
+    </div>
+</form>
